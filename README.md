@@ -1,4 +1,4 @@
-# Automating-Splunk-with-n8n
+# Automating-Splunk-With-N8N
 
 ## Overview 
 This project is an end-to-end SOC automation pipeline that demonstrates how modern security operations team automate triage, enrichment, and notification workflow using:
